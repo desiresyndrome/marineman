@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: pl_PL\n"
+"X-Generator: Poedit 2.0\n"
+
+#. Text in echo
+#: category-ships.php:91 category-vacancies.php:55 contacts.php:58
+#: page-text.php:24 service1.php:62 service2.php:48 service3.php:47
+#: service4.php:67 service5.php:79 service6.php:34 service7.php:48
+#: service8.php:64 service-all.php:24 single-marine-log.php:37
+#: single-permanent-vacancies.php:46 single-permanent-vacancies.php:60
+#: single-ships.php:60 single-vacancies.php:76 category.php:23
+#: category-marine-log.php:23 category-permanent-vacancies.php:17
+#: category-permanent-vacancies.php:29
+msgid "/"
+msgstr "/pl/"
+
+#. Text in echo
+#: footer-after.php:
+msgid "/contacts"
+msgstr "/pl/contacts"
+
+#. Text in echo
+#: footer-after.php:3
+msgid "/gdpr-candidate-agreement"
+msgstr "/pl/gdpr-candidate-agreement"
+
+#. Text in echo
+#: service1.php:62 service2.php:48 service3.php:47 service4.php:67
+#: service5.php:79 service6.php:34 service7.php:48 service8.php:64
+msgid "/services-for-seafarers"
+msgstr "/pl/services-for-seafarers"
+
+#. Text in echo
+#: contacts.php:24
+msgid "A :"
+msgstr "A :"
+
+#. Text in echo
+#: single-vacancies.php:66
+msgid "APPLY FOR THIS JOB"
+msgstr "PODANIE DO TEJ PRACY"
+
+#. Text in echo
+#: single-vacancies.php:56
+msgid "Age limit"
+msgstr "Wiek"
+
+#. Text in echo
+#: index.php:32
+msgid "All Nationality"
+msgstr "Wszystkie Narodowosci"
+
+#. Text in echo
+#: index.php:18
+msgid "All Position"
+msgstr "Wszystkie Pozycje"
+
+#. Text in echo
+#: index.php:25
+msgid "All Vesel Type"
+msgstr "Wszystkie typy Statkow"
+
+#. Text in echo
+#: category-ships.php:20 category-ships.php:21
+msgid "All type"
+msgstr "Wszystkie typy"
+
+#. Text in echo
+#: single-ships.php:51
+msgid "Any questions ?"
+msgstr "Jakies pytania ?"
+
+#. Text in echo
+#: service7.php:33
+msgid "Application form"
+msgstr "Formularz zgloszeniowy"
+
+#. Text in echo
+#: category-vacancies.php:33 functions.php:566 index.php:48
+msgid "Apply now"
+msgstr "Aplikuj teraz"
+
+#. Text in echo
+#: single-ships.php:33
+msgid "Breadth"
+msgstr "Szerokosc"
+
+#. Text in echo
+#: single-ships.php:38
+msgid "Builder"
+msgstr "Budowniczy"
+
+#. Text in echo
+#: single-vacancies.php:60
+msgid "CV for a seagoing"
+msgstr "CV na morzu"
+
+#. Text in echo
+#: single-ships.php:39
+msgid "Classification society"
+msgstr "Klasyfikacja spoleczenstwa"
+
+#. Text in echo
+#: single-vacancies.php:34
+msgid "Conditions of Employment"
+msgstr "Warunki Zatrudnienia"
+
+#. Text in echo
+#: footer-after.php:
+msgid "Contacts"
+msgstr "Kontakt"
+
+#. Text in echo
+#: single-vacancies.php:63
+msgid "Copy Link"
+msgstr "Skopiuj link"
+
+#. Text in echo
+#: single-vacancies.php:48
+msgid "Crew"
+msgstr "Zaloga"
+
+#. Text in echo
+#: single-vacancies.php:44
+msgid "DWT/GRT"
+msgstr "DWT/GRT"
+
+#. Text in echo
+#: single-ships.php:31
+msgid "Deadweight"
+msgstr "Nosnosc"
+
+#. Text in echo
+#: single-ships.php:45
+msgid "Description"
+msgstr "Opis"
+
+#. Text in echo
+#: footer.php:
+msgid "Design:"
+msgstr "Projekt:"
+
+#. Text in echo
+#: service7.php:34
+msgid "Download Application form<br>for US visa C1D"
+msgstr "Pobierz formularz<br>o US visa C1D"
+
+#. Text in echo
+#: single-vacancies.php:36
+msgid "Duration of contract"
+msgstr "Trwania kontraktu"
+
+#. Text in echo
+#: contacts.php:48
+msgid "E :"
+msgstr "E :"
+
+#. Text in echo
+#: head.php:
+msgid "EN"
+msgstr "PL"
+
+#. Text in echo
+#: single-vacancies.php:49
+msgid "Engine"
+msgstr "Typ silnika"
+
+#. Text in echo
+#: single-ships.php:35
+msgid "Engine model"
+msgstr "Model silnika"
+
+#. Text in echo
+#: single-ships.php:36
+msgid "Engine power"
+msgstr "Moc silnika"
+
+#. Text in echo
+#: single-ships.php:34
+msgid "Engine type"
+msgstr "Typ silnika"
+
+#. Text in echo
+#: single-vacancies.php:57
+msgid "English (TOSE)"
+msgstr "English (TOSE)"
+
+#. Text in echo
+#: single-vacancies.php:26
+msgid "Expiry date"
+msgstr "Data wygasniecia"
+
+#. Text in echo
+#: single-ships.php:29 single-vacancies.php:46
+msgid "Flag"
+msgstr "Flaga"
+
+#. Text in echo
+#: single-ships.php:26
+msgid "Former names"
+msgstr "Dawne nazwy"
+
+#. Text in echo
+#: single-ships.php:30
+msgid "Gross tonnage"
+msgstr "Tonaz brutto"
+
+#. Text in echo
+#: single-ships.php:40
+msgid "Home port"
+msgstr "Port macierzysty"
+
+#. Text in echo
+#: category-ships.php:36 single-ships.php:20
+msgid "IMO"
+msgstr "IMO"
+
+#. Text in echo
+#: single-ships.php:23
+msgid "IMO number"
+msgstr "Numer IMO"
+
+#. Text in echo
+#: single-vacancies.php:20
+msgid "INFO ABOUT THE JOB"
+msgstr "INFORMACJE O PRACY"
+
+#. Text in echo
+#: single-vacancies.php:30
+msgid "Job Description"
+msgstr "Opis pracy"
+
+#. Text in echo
+#: single-ships.php:32
+msgid "Length"
+msgstr "Dlugosc"
+
+#. Text in echo
+#: single-permanent-vacancies.php:24 category-permanent-vacancies.php:12
+msgid "License"
+msgstr "Licencja"
+
+#. Text in echo
+#: index.php:9
+msgid "Long-terms employment"
+msgstr "Zatrudnienie długoterminowe"
+
+#. Text in echo
+#: single-ships.php:24
+msgid "MMSI"
+msgstr "MMSI"
+
+#. Text in echo
+#: single-ships.php:42
+msgid "Manager"
+msgstr "Menedżer"
+
+#. Text in echo
+#: single-vacancies.php:59
+msgid "Marlins"
+msgstr "Marlins"
+
+#. Text in echo
+#: index.php:9
+msgid "Matching candidate’s goals"
+msgstr "Dopasowanie celów kandydata"
+
+#. Text in echo
+#: single-ships.php:25
+msgid "Name of the ship"
+msgstr "Nazwa statku"
+
+#. Text in echo
+#: category-vacancies.php:22 functions.php:555 index.php:48
+#: single-vacancies.php:55
+msgid "Nationality"
+msgstr "Narodowosc"
+
+#. Text in echo
+#: functions.php:738
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#. Text in echo
+#: footer-after.php:3
+msgid "Ok"
+msgstr "Ok"
+
+#. Text in echo
+#: service1.php:42 service2.php:42 service3.php:32 service4.php:56
+#: service5.php:60 service7.php:32 service8.php:36
+msgid "Online form"
+msgstr "Formularz online"
+
+#. Text in echo
+#: single-ships.php:28
+msgid "Operating status"
+msgstr "Stan pracy"
+
+#. Text in echo
+#: service5.php:54 service6.php:26
+msgid "Order"
+msgstr "Zamowienie"
+
+#. Text in echo
+#: contacts.php:17
+msgid "Our offices"
+msgstr "Nasze biura"
+
+#. Text in echo
+#: single-ships.php:41
+msgid "Owner"
+msgstr "Wlasciciel"
+
+#. Text in echo
+#: contacts.php:48
+msgid "P :"
+msgstr "T :"
+
+#. Text in echo
+#: single-permanent-vacancies.php:23 category-permanent-vacancies.php:12
+msgid "Position"
+msgstr "Pozycja"
+
+#. Text in echo
+#: single-vacancies.php:25
+msgid "Posted date"
+msgstr "Data opublikowania"
+
+#. Text in echo
+#: single-permanent-vacancies.php:25 category-permanent-vacancies.php:12
+msgid "Rank abbreviations"
+msgstr "Skroty rang"
+
+#. Text in echo
+#: category-ships.php:37
+msgid "Read More"
+msgstr "Czytaj Wiecej"
+
+#. Text in echo
+#: category-vacancies.php:34 footer-after.php:3 functions.php:567 index.php:48
+#: service-all.php:18 category.php:14 category-marine-log.php:14
+msgid "Read more"
+msgstr "Czytaj wiecej"
+
+#. Text in echo
+#: single-vacancies.php:53
+msgid "Requirements"
+msgstr "Wymagania"
+
+#. Text in echo
+#: single-permanent-vacancies.php:28 category-permanent-vacancies.php:12
+msgid "Rotation"
+msgstr "Obrot"
+
+#. Text in echo
+#: single-permanent-vacancies.php:29 single-vacancies.php:37
+#: category-permanent-vacancies.php:12
+msgid "Salary"
+msgstr "Zaplata"
+
+#. Text in echo
+#: service2.php:43 service3.php:33
+msgid "Sample"
+msgstr "Proba"
+
+#. Text in echo
+#: service4.php:62
+msgid "Sample Certificate"
+msgstr "Przykladowy Certyfikat"
+
+#. Text in echo
+#: service4.php:56
+msgid "Select test type"
+msgstr "Wybierz typ testu"
+
+#. Text in echo
+#: service1.php:62 service2.php:48 service3.php:47 service4.php:67
+#: service5.php:79 service6.php:34 service7.php:48 service8.php:64
+msgid "Services for seafarers"
+msgstr "Uslugi dla marynarzy"
+
+#. Text in echo
+#: index.php:9
+msgid "Support and Guidance"
+msgstr "Wsparcie i Wskazowki"
+
+#. Text in echo
+#: footer-after.php:3
+msgid "This site uses cookies. If you continue, you agree to the use of cookies while browsing."
+msgstr "Ta strona uzywa cookies. Kontynuujac, zgadzasz sie na uzywani cookie podczas przegladania."
+
+#. Text in echo
+#: single-vacancies.php:47
+msgid "Trading Area"
+msgstr "Gielda"
+
+#. Text in echo
+#: category-vacancies.php:21 functions.php:554 index.php:48
+msgid "Type of vessel"
+msgstr "Rodzaj statku"
+
+#. Text in echo
+#: single-vacancies.php:43
+msgid "Vessel"
+msgstr "Statek"
+
+#. Text in echo
+#: category-ships.php:34
+msgid "Vessel Name"
+msgstr "Nazwa Statku"
+
+#. Text in echo
+#: category-ships.php:35
+msgid "Vessel Type"
+msgstr "Typ Statku"
+
+#. Text in echo
+#: single-vacancies.php:41
+msgid "Vessel information"
+msgstr "Informacje o statku"
+
+#. Text in echo
+#: single-permanent-vacancies.php:26 single-ships.php:27
+#: category-permanent-vacancies.php:12
+msgid "Vessel type"
+msgstr "Typ statku"
+
+#. Text in echo
+#: single-permanent-vacancies.php:27 category-permanent-vacancies.php:12
+msgid "Vessel type description"
+msgstr "Opis typu statku"
+
+#. Text in echo
+#: category-ships.php:58 functions.php:728 single-permanent-vacancies.php:46
+#: category-permanent-vacancies.php:17
+msgid "View"
+msgstr "Widok"
+
+#. Text in echo
+#: single-permanent-vacancies.php:30 category-permanent-vacancies.php:12
+msgid "View actual"
+msgstr "Zobacz"
+
+#. Text in echo
+#: index.php:9
+msgid "We guarantee"
+msgstr "Gwarantujemy"
+
+#. Text in echo
+#: index.php:9
+msgid "World class Respected Ship Owners"
+msgstr "Szanowani wlasciciele Statkow swiatowej klasy"
+
+#. Text in echo
+#: single-ships.php:37 single-vacancies.php:45
+msgid "Year of build"
+msgstr "Rok budowy"
+
+#. Text in echo
+#: single-vacancies.php:21
+msgid "on"
+msgstr "na"
