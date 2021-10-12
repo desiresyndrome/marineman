@@ -1,0 +1,1 @@
+<?php if(get_field('ceo-text', $queried_object)): ?><div class="my-text-wrap wraper-100"><div class="my-text-block wraper-1240"><div class="my-text scrollbar-inner"><div class="scrollbar_padding"><?php the_field('ceo-text', $queried_object); ?></div></div></div></div><?php endif; ?>

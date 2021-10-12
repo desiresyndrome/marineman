@@ -1,0 +1,5 @@
+<div class="fixed-soc-menu-block"><div class="fixed-soc"><a href="javascript:void(0)" class="fixed-soc-a fixed-soc-share"></a><ul class="fixed-soc-menu"><li><a href="<?php the_field('ms-tg', 'options'); ?>" class="fixed-soc-a fixed-soc-tg"></a></li><li><a href="<?php the_field('ms-vb', 'options'); ?>" class="fixed-soc-a fixed-soc-vb"></a></li></ul></div></div>
+
+<div id="cookie_notification"><div class="cookie-inner"><div class="cookie-text"><p><?php _e('This site uses cookies. If you continue, you agree to the use of cookies while browsing.','ds'); ?> <a href="<?php _e('/gdpr-candidate-agreement','ds'); ?>"><?php _e('Read more','ds'); ?></a></p></div><div class="cookie-btn"><button class="cookie_accept"><?php _e('Ok','ds'); ?></button></div></div></div>	
+
+<a href="<?php _e('/contacts','ds'); ?>" class="connect-btn"><?php _e('Contacts','ds'); ?></a><a href='javascript:void(0)' class="tops"></a>
